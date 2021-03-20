@@ -1,3 +1,3 @@
 # CLA
 
-Thiss is what you are contributing to.
+This is what you are contributing to.
